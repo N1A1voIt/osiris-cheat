@@ -1,2 +1,3 @@
 /build
 .kotlin
+/src/main/assets/vertex-service-account.json

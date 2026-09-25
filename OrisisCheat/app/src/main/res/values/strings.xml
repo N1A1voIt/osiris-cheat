@@ -5,6 +5,8 @@
     <string name="status_idle">Ready to capture</string>
     <string name="capture_hint">Tap the button below and accept the system dialog to grab a picture of your screen.</string>
     <string name="capture_button">Capture my screen</string>
+    <string name="photo_button">Take a photo instead</string>
+    <string name="status_photo_pending">Waiting for camera…</string>
     <string name="last_capture">Last capture</string>
 
     <!-- Statuses -->
@@ -14,6 +16,15 @@
     <string name="status_permission_denied">Screen capture was denied</string>
     <string name="status_failed">Capture failed: %1$s</string>
     <string name="status_failed_short">Capture failed</string>
+
+    <!-- Extraction (ADK agent) -->
+    <string name="extract_button">Extract question (ADK agent)</string>
+    <string name="status_extracting">ADK agent is reading the screenshot…</string>
+    <string name="status_extraction_done">Extraction complete</string>
+    <string name="status_extraction_failed">Extraction failed: %1$s</string>
+    <string name="question_label">Question</string>
+    <string name="answers_label">Answers</string>
+    <string name="no_capture_yet">Capture a screenshot first</string>
 
     <!-- Foreground service notification -->
     <string name="channel_name">Screen capture</string>

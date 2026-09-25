@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <!-- Photos taken via the camera intent live in filesDir/photos/. -->
+    <files-path
+        name="photos"
+        path="photos/" />
+</paths>
